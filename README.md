@@ -1,5 +1,7 @@
 # AlphaDrift
 
+AlphaDrift is a tool for population-based drift modelling in electrochemical sensors.
+
 ## Example
 
 ### Load libriaries.
