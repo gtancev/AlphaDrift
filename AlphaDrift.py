@@ -1,3 +1,6 @@
+__author__ = "Georgi Tancev"
+__copyright__ = "© Georgi Tancev"
+
 import numpy as np
 from sklearn.ensemble import IsolationForest
 from sklearn.preprocessing import MinMaxScaler
